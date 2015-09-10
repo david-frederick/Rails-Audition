@@ -26,3 +26,4 @@ I spent most of the hour and a half learning how to make proper rake tasks. I ha
 As my time was coming to a close, I discovered that I was recieving 5000 entries from the photos import. (This, at least on my local machine, was taking a significantly long time.) Given more time I would: 
 1. Verify that this is not an error within my code. The api site advertised 200 entries, but the page looks much longer than that.
 2. Impliment some kind of batching for this import so that it does not strain memory as much.
+(These would be done after accomplishing higher priority items, such as some of the above-listed UI requirements.)
