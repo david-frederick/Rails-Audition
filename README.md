@@ -1,7 +1,7 @@
 # Tin-Roof-Audition-Two
 This is my response to a problem posed by a interviewer from Tin Roof Software. I was expected to only work on the problem for 1.5 hours.
 
-== This was the problem prompt ==
+### This was the problem prompt ###
 
   Create a Ruby on Rails application for managing photo albums. The data model for these should follow the data formats returned by the /users, /photos, and /albums APIs located at http://jsonplaceholder.typicode.com. The application can be seeded with initial data using those same APIs. 
  
@@ -19,7 +19,7 @@ In order of importance, the app should have the following functionality (we don'
  
 Spend at least an hour but no more than one and a half hours to complete as much of this as you can. When finished post on github and send us a link, or zip your code and send it via email. 
 
-== What I did with my hour and a half ==
+### What I did with my hour and a half ###
 
 I spent most of the hour and a half learning how to make proper rake tasks. I have, in the past, simply written local scripts. In this case I wanted to access ActiveRecord (because it made the process of importing the data much cleaner.) Obviously for this to work, I also had to create the associated models and relate them.
 
