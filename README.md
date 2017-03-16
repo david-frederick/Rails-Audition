@@ -21,7 +21,9 @@ Spend at least an hour but no more than one and a half hours to complete as much
 
 ### What I did with my hour and a half ###
 
-I spent most of the hour and a half learning how to make proper rake tasks. I have, in the past, simply written local scripts. In this case I wanted to access ActiveRecord (because it made the process of importing the data much cleaner.) Obviously for this to work, I also had to create the associated models and relate them. See `lib/tasks/import`.
+I spent most of the hour and a half learning how to make proper rake tasks. I have, in the past, simply written local scripts. In this case I wanted to access ActiveRecord (because it made the process of importing the data much cleaner.) Obviously for this to work, I also had to create the associated models and relate them.
+
+See: `lib/tasks/import`.
 
 As my time was coming to a close, I discovered that I was recieving 5000 entries from the photos import. (This, at least on my local machine, was taking a significantly long time.) Given more time I would: 
 1. Verify that this is not an error within my code. The api site advertised 200 entries, but the page looks much longer than that.
