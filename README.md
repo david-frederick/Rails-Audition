@@ -1,5 +1,5 @@
 # Tin-Roof-Audition-Two
-This is my response to a problem posed by a interviewer from Tin Roof Software.
+This is my response to a problem posed by a interviewer from Tin Roof Software. I was expected to only work on the problem for 1.5 hours.
 
 == This was the problem prompt ==
 
